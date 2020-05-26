@@ -14,7 +14,8 @@ RUN pip3 install --upgrade pip
 RUN pip install Mopidy-MPD
 RUN pip install Mopidy-Scrobbler
 RUN pip install Mopidy-Local
-RUN pip install Mopidy-MusicBox-Webclient
+RUN pip install Mopidy-Mowecl
+RUN pop install Mopidy-Party
 RUN pip install --pre Mopidy-YouTube
 
 
